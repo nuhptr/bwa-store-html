@@ -1,2 +1,2 @@
 # bwa-store-html
-Slicing figma to html to developer in laravel
+Slicing figma to html to develope in laravel
